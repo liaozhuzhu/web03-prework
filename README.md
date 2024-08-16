@@ -4,7 +4,7 @@ Submitted by: **👉🏿 Liao Zhu**
 
 About this web app: **👉🏿 Creatorverse allows users to upload profiles of their favorite creators!**
 
-Time spent: **👉🏿 3.5** hours
+Time spent: **👉🏿 4** hours
 
 ## Required Features
 
