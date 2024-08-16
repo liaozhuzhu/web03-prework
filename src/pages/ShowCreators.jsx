@@ -30,7 +30,7 @@ function ShowCreators() {
     };
 
     return (
-      <div className="flex justify-center items-center gap-5 flex-col h-screen bg-zinc-900 text-zinc-300 w-full">
+      <div className="flex justify-center items-center gap-5 flex-col min-h-screen bg-zinc-900 text-zinc-300 w-full py-10">
         <h1 className="text-4xl">All Creators</h1>
         {loading ? (
           <h1>Loading...</h1>

@@ -47,6 +47,7 @@ GIF created with ...  👉🏿 EzGif
 
 ## Notes
 
+- I wanted to style the frontend as much as possible, but I realized that as long as it's decent looking it should be fine. The example given in the instructions was very nice looking, very professional I understand that, but I wanted to focus on the functionality of the app since the design just comes down to spending more time on it.
 - I feel like given the fact that this is a prework assignment aimed towards beginners, Pico is not very intuitive to set up with React (the framework recommended to use). This is why I decided to use Tailwind instead - plus it's more modern at least to me.
 - ShowCreators page and the "/" route "App" page if you want to call it (the root) are synonymous? Or am I mistaken? What I've done is I've made the "/" route point to ShowCreators since it appears the root page is supposed to show all the creators. I'm not sure if this is correct or not since it appears we keep App.js throughout the whole project (which is normal; however, usually it'd be the home page that then links to other pages). Not sure if that makes sense. Essentially what I'm saying is, usually App.js is the home page of a website that points to other pages, but it seems the instructions want the home page to be ShowCreators. I'm not sure if this is correct or not.
 
